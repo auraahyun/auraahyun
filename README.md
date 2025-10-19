@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Yafa
+### Hey there! 👋 I'm Aura
 
 I'm a *Full Stack Web Developer* with a passion for building web apps that are fast, scalable, and user-friendly. I enjoy turning ideas into reality through clean code and modern frameworks.
 
